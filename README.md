@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=SameerKamani&style=flat" alt="Profile views"/>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -39,6 +38,8 @@ My work spans across:
   <img src="https://img.shields.io/badge/Wav2Vec2.0-Audio_Model-purple" />
 </p>
 
+---
+
 ## 💻 Languages I've Worked With
 
 <p align="center">
@@ -47,6 +48,21 @@ My work spans across:
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SameerKamani&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerKamani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
@@ -72,8 +88,7 @@ My work spans across:
 
 ## 🌐 Let's Connect
 
-- 📬 Email: sameerkamani03@gmail.com
+- 📬 Email: sameerkamani03@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/sameerkamani](https://linkedin.com/in/sameerkamani)
 
 > “I build autonomous systems that think, talk, and collaborate.”
-
