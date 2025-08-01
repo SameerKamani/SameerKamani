@@ -39,10 +39,14 @@ My work spans across:
   <img src="https://img.shields.io/badge/Wav2Vec2.0-Audio_Model-purple" />
 </p>
 
-## 🧑‍💻 Languages I've Worked With
+## 💻 Languages I've Worked With
+
 <p align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=donut&langs_count=5&theme=radical)](https://github-readme-stats.vercel.app)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=donut&langs_count=5&theme=radical" alt="Top Languages" />
+  </a>
 </p>
+
 
 ---
 
