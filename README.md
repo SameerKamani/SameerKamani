@@ -53,24 +53,6 @@ My work spans across:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerKamani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=SameerKamani&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SameerKamani&theme=onedark&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ## ✍ Recent Highlights
 
 - 🧠 Designing scalable Agentic workflows using **LangGraph** + **LLMs**
