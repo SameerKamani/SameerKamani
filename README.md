@@ -40,8 +40,9 @@ My work spans across:
 </p>
 
 ## 🧑‍💻 Languages I've Worked With
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=compact&langs_count=20&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=donut&langs_count=5&theme=radical)](https://github-readme-stats.vercel.app)
+</p>
 
 ---
 
