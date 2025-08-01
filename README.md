@@ -1,12 +1,12 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Agentic+AI+Engineer+%7C+LLM+Orchestration+%7C+Voice+AI+in+Low-Resource+Languages+%7C+Full+Stack+ML+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer+Kamani!+Aspiring+AI+Engineer+%26+Researcher+%7C+Future+Data+Scientist+%7C+Full-Stack+Developer" alt="Typing Animation"/>
 </p>
 
-<!-- Visitor badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameerKamani&style=flat-square&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SameerKamani&style=flat" alt="Profile views"/>
 </p>
+
 
 ---
 
