@@ -39,6 +39,10 @@ My work spans across:
   <img src="https://img.shields.io/badge/Wav2Vec2.0-Audio_Model-purple" />
 </p>
 
+## 🧑‍💻 Languages I've Worked With
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=compact&langs_count=20&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚧 Projects & Explorations
