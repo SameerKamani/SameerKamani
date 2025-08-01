@@ -50,22 +50,6 @@ My work spans across:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SameerKamani&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerKamani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🚧 Projects & Explorations
 
 | Project         | Description                                                                 | Tech Stack                  |
