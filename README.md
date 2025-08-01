@@ -1,80 +1,93 @@
-<h1 align="center">Hi, I'm Sameer Kamani 👋</h1>
-
+<!-- Typing SVG -->
 <p align="center">
-  <i>AI Researcher & Developer | Building agentic systems, multilingual interfaces, and smart pipelines</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Agentic+AI+Engineer+%7C+LLM+Orchestration+%7C+Voice+AI+in+Low-Resource+Languages+%7C+Full+Stack+ML+Developer" alt="Typing SVG" />
 </p>
 
+<!-- Visitor badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameerKamani&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SameerKamani?style=social" alt="GitHub Followers" />
-</p>
-
----
-
-### 🚀 What I'm Currently Doing
-
-- 🔬 Researching **Agentic AI Systems** for:
-  - IT workflow automation with **LangGraph** and dynamic form orchestration
-  - Voice-based emotion detection in **low-resource languages** (e.g. Urdu)
-  - Custom **LLM orchestration** pipelines using LangChain
-
-- 🧠 Exploring:
-  - **Multi-agent reasoning** and self-correcting agents
-  - **Transformer-based models** for speech (e.g. Wav2Vec2.0, HuBERT)
-  - **Retrieval-Augmented Generation** (RAG) workflows
-  - Real-world applications of **LLMs in localized language domains**
-
----
-
-### 🧪 Areas I’m Deeply Interested In
-
-| Area | Description |
-|------|-------------|
-| 🤖 **Agentic AI** | Multi-agent reasoning, self-reflection, tool-using LLMs |
-| 🧠 **LLMs & LangGraph** | Composable workflows for orchestrating intelligent behavior |
-| 🔉 **Voice AI** | Urdu-based speech emotion recognition using transformers |
-| 📚 **Retrieval-Augmented Generation** | Combining real-world documents with LLM reasoning |
-| 💬 **Multilingual NLP** | Addressing underrepresented languages in emotion & intent detection |
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain‑LangGraph-blueviolet?logo=openai&style=flat"/> 
-  <img src="https://img.shields.io/badge/LLMs-GPT‑4,Claude‑3‑Opus,CommandR‑Wav2Vec2-ffca28?style=flat"/>
-  <img src="https://img.shields.io/badge/Python‑FastAPI‑Flask-green?logo=python&style=flat"/>
-  <img src="https://img.shields.io/badge/Frontends-Flutter%20%7C%20React‑Tailwind‑Tkinter‑CLI-cyan?style=flat"/>
-  <img src="https://img.shields.io/badge/Infra-GitHub%20Actions‑Docker‑REST‑Playwright‑Venv-grey?style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=SameerKamani&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
 
-### 💡 What I’m Building
+## 👨‍💻 About Me
 
-- 🤖 **SL-IT-AI** – LangGraph-driven helpdesk system automating approvals, ticketing, and resolution with manager-in-the-loop logic
-- 🎙️ **Emotion Detector for Urdu Speech** – 94.5% accuracy using Wav2Vec2.0 + SEMOUR+ dataset
-- 🐍 **Jump Point Search Snake** – Grid-based pathfinding using JPS4 for fun & learning
-- 📲 **PayHab** – Cross-platform debt manager (Flutter + Flask)
+Hi, I'm **Sameer Kamani**, a developer passionate about intelligent systems that adapt, reason, and collaborate.
+
+My work spans across:
+
+- 🤖 Agentic AI & LLM Orchestration (LangGraph, LangChain, ReAct, RAG)
+- 💬 Multilingual Voice AI for Urdu (Emotion classification, Wav2Vec2.0)
+- 🔄 Agent-to-Agent Communication & Model Context Protocol (MCP)
+- 🚀 Building full-stack AI products with **FastAPI + React**
+- 🎯 Currently exploring self-replicating AI agents and memory-driven planning
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerKamani&show_icons=true&theme=radical&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerKamani&layout=compact&hide_title=true" />
+  <img src="https://img.shields.io/badge/Python-FastAPI-blue" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB" />
+  <img src="https://img.shields.io/badge/LangChain-Orchestration-yellow" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_AI-red" />
+  <img src="https://img.shields.io/badge/OpenAI-LLMs-cc0000" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-orange" />
+  <img src="https://img.shields.io/badge/Wav2Vec2.0-Audio_Model-purple" />
 </p>
 
 ---
 
-### 📬 Reach Out
+## 🚧 Projects & Explorations
+
+| Project         | Description                                                                 | Tech Stack                  |
+|----------------|-----------------------------------------------------------------------------|-----------------------------|
+| **SL-IT Agentic AI System** | Helpdesk platform with **Agent-to-Agent (A2A)** reasoning, **MCP**, built with FastAPI & React. | LangGraph, FastAPI, React   |
+| **Voice Emotion Detection (Urdu)** | Trained Wav2Vec2.0 + ResNet classifier achieving **94.5%** accuracy on Urdu emotional datasets. | PyTorch, Transformers       |
+| **PayHab**      | Flutter + Flask application for student loan tracking and budget planning. | Flutter, Firebase, Flask    |
+| **JPS-Snake Game** | AI-controlled snake game using Jump-Point Search pathfinding algorithm. | Python, Matplotlib          |
+| **AQI Detection & Visualization** | Air Quality Index (AQI) detection system with city-wise interactive visualizations. | Python, Streamlit, Pandas   |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:sameerkamani03@gmail.com"><img src="https://img.shields.io/badge/Gmail-sameerkamani03%40gmail.com-red?logo=gmail&style=flat"/></a> 
-  <a href="https://www.linkedin.com/in/sameerkamani"><img src="https://img.shields.io/badge/LinkedIn-@sameerkamani-blue?logo=linkedin&style=flat"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SameerKamani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=SameerKamani&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-<p align="center"><i>"Trying to bring structure and reasoning to open-ended problems using AI & data-driven agents."</i></p>
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SameerKamani&theme=onedark&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✍ Recent Highlights
+
+- 🧠 Designing scalable Agentic workflows using **LangGraph** + **LLMs**
+- 🔬 Researching **LLM grounding + multi-agent context sharing (MCP)** 
+- 📡 Exploring low-bandwidth RAG pipelines for voice-first systems in South Asia
+
+---
+
+## 🌐 Let's Connect
+
+- 📬 Email: sameerkamani03@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sameerkamani](https://linkedin.com/in/sameerkamani)
+
+> “I build autonomous systems that think, talk, and collaborate.”
+
+---
+
+## 🔧 Setup Instructions
+
+1. Create a GitHub repo named exactly as your username (e.g. `SameerKamani`)
+2. Add a `README.md` with the content above
+3. Replace badge usernames/links with your actual GitHub handle (if different)
+4. Customize the theme if needed (dark, gradient, etc.)
