@@ -68,11 +68,3 @@ My work spans across:
 
 > “I build autonomous systems that think, talk, and collaborate.”
 
----
-
-## 🔧 Setup Instructions
-
-1. Create a GitHub repo named exactly as your username (e.g. `SameerKamani`)
-2. Add a `README.md` with the content above
-3. Replace badge usernames/links with your actual GitHub handle (if different)
-4. Customize the theme if needed (dark, gradient, etc.)
